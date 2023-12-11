@@ -10,7 +10,7 @@
 
 🌱 I’m currently working on data science, machine learning and deep learning. <br>
 👯 I’m looking to collaborate on data science, machine learning and deep learning projects. <br>
-💬 Ask me about data science, machine learning and deep learning
+💬 Ask me about data science, machine learning and deep learning. <br>
 📫 How to reach me: merveozkan867@gmail.com
  
  
