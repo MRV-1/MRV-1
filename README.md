@@ -21,6 +21,6 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celalakcelik" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/merve-özkan-msc-4180a0133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merveozkan" height="30" width="40" /></a>
 </p>
 
