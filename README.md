@@ -15,9 +15,9 @@
  
  
 <h1></h1>
-🌱 PhD Candidate, Computer Engineer at University of Karabuk 
-😄 Master of Science, Computer Engineer at University of Karabuk 
-⚡ Artificial Intelligence Specialist at Kaswood
+🌱 PhD Candidate, Computer Engineer at University of Karabuk <br>
+😄 Master of Science, Computer Engineer at University of Karabuk <br>
+⚡ Artificial Intelligence Specialist at Kaswood <br>
 
 ## 🌐 Connect with Me:
 <p align="left">
