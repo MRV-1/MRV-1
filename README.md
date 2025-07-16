@@ -17,7 +17,7 @@
 <h1></h1>
 🌱 PhD Candidate, Computer Engineer at University of Karabuk <br>
 😄 Master of Science, Computer Engineer at University of Karabuk <br>
-⚡ Artificial Intelligence Specialist at Kaswood <br>
+⚡ Lecturer at University of Kastamonu <br>
 
 ## 🌐 Connect with Me
 <p align="left">
